@@ -2,9 +2,9 @@
 module de gestion d'association
 
 - manage members (Person or Organizations)
--- show member page
+-   show member page
 - manage Events 
--- Event page
+-   Event page
 -- show calendar 
 - Projects
 -- Project page 
