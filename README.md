@@ -1,12 +1,27 @@
-# association
-module de gestion d'association
+# Organization
+module de gestion d'une Organization
 
+MEMBERS
+###
 - manage members (Person or Organizations)
--   show member page
+- show member page
+
+EVENTS
+###
 - manage Events 
 -   Event page
--- show calendar 
+- show calendar 
+
+PROJECTS
+###
 - Projects
--- Project page 
+- Project page 
+
+NEWS
+####
 - News Feed 
 - Manage Documents / Ressources
+
+ADMIN
+###
+- EVerything is driven by one or more admins 
